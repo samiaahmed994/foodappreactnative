@@ -21,8 +21,7 @@ const BuyFood = ({ navigation }) => {
   const [userDoc, setUserDoc] = useState(null);
 
   const Read = () => {
-    // MARK: Reading Doc
-    // You can read what ever document by changing the collection and document path here
+   
     const myDoc = doc(db, "FoodApp", "Samia Ahmed");
 
     getDoc(myDoc)
