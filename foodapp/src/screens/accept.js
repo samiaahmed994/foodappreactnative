@@ -12,9 +12,6 @@ import {
 } from "react-native";
 import { Card } from "react-native-paper";
 
-import { MaterialIcons } from "@expo/vector-icons";
-import { useEffect } from "react";
-import { Ionicons } from "@expo/vector-icons";
 const image = {
   uri: "https://i.pinimg.com/originals/29/01/79/290179e7ee286751a4b0332087583ad6.jpg",
 };
