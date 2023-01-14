@@ -24,6 +24,7 @@ const ViewFood = (props) => {
     { name: "Chicken Biriyani  ", id: "5" },
     { name: "Pizza", id: "6" },
     { name: "Burger", id: "7" },
+    { name: "Tikk", id: "8" },
   ]);
 
   return (
